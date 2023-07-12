@@ -21,10 +21,8 @@ Execute o script Python para criar e preencher o banco de dados.
 
 Copy code
 
-´
-python3 seu_script.py
+´python3 seu_script.py´
 
-´
 
 Estrutura do Banco de Dados
 O banco de dados "ESW2023_E3_Ponta_Pedra_Diego" inclui as seguintes tabelas:
